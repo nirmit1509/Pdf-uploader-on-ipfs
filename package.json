@@ -1,7 +1,7 @@
 {
-  "name": "eth-social-network",
+  "name": "pdf-uploader-on-ipfs",
   "version": "0.1.0",
-  "description": "An Ethereum Social Network",
+  "description": "A Pdf file uploader on IPFS",
   "author": "Nirmit Sabharwal",
   "dependencies": {
     "babel-polyfill": "6.26.0",
